@@ -12,17 +12,17 @@
         </IRouterLink>
         <ul class="mt-10 flex space-x-6">
           <li>
-            <IRouterLink link="https://github.com/devlive-community/shadcn-ui-vue-admin" external>
+            <IRouterLink link="https://github.com/devlive-community/freecn-ui-vue-admin" external>
               <Github class="text-white"/>
             </IRouterLink>
           </li>
           <li>
-            <IRouterLink link="https://github.com/devlive-community/shadcn-ui-vue-admin" external>
+            <IRouterLink link="https://github.com/devlive-community/freecn-ui-vue-admin" external>
               <Github class="text-white"/>
             </IRouterLink>
           </li>
           <li>
-            <IRouterLink link="https://github.com/devlive-community/shadcn-ui-vue-admin" external>
+            <IRouterLink link="https://github.com/devlive-community/freecn-ui-vue-admin" external>
               <Github class="text-white"/>
             </IRouterLink>
           </li>

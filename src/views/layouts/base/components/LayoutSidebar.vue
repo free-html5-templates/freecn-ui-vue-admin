@@ -5,12 +5,12 @@
       <!-- Logo or brand -->
       <div :class="cn(`flex items-center h-[var(--header-height)] flex-none gap-4 bg-background p-4 pt-3.5 md:px-8 border-b ${!isCollapsed ? 'gap-2' : ''}`)">
         <Avatar :class="cn(`${isCollapsed ? '-ml-6' : ''}`)">
-          <AvatarImage alt="Shadcn UI Admin" src=""/>
+          <AvatarImage alt="freecn UI Admin" src=""/>
           <AvatarFallback>SUA</AvatarFallback>
         </Avatar>
         <div :class="cn(`flex flex-col items-center truncate ${isCollapsed ? 'invisible w-0' : 'visible w-auto'}`)">
-          <span class="font-medium">Shadcn UI Admin</span>
-          <span class="text-xs">Vite + Shadcn UI + Vue3</span>
+          <span class="font-medium">freecn UI Admin</span>
+          <span class="text-xs">Vite + freecn UI + Vue3</span>
         </div>
       </div>
       <!-- Navigation links -->

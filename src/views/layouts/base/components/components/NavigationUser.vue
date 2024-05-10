@@ -8,7 +8,7 @@
     <DropdownMenuContent class="w-56">
       <DropdownMenuLabel class="font-normal">
         <div class="flex flex-col space-y-1">
-          <p class="text-sm font-medium leading-none">Shadcn UI Admin</p>
+          <p class="text-sm font-medium leading-none">freecn UI Admin</p>
           <p class="text-xs leading-none text-muted-foreground">community@devlive.org</p>
         </div>
       </DropdownMenuLabel>
@@ -22,10 +22,10 @@
           <DropdownMenuSubTrigger class="cursor-pointer">{{ $t('common.common.codeMirror') }}</DropdownMenuSubTrigger>
           <DropdownMenuPortal>
             <DropdownMenuSubContent>
-              <a href="https://github.com/devlive-community/shadcn-ui-vue-admin" target="_blank">
+              <a href="https://github.com/free-html5-templates/freecn-ui-vue-admin" target="_blank">
                 <DropdownMenuItem class="cursor-pointer">GitHub</DropdownMenuItem>
               </a>
-              <a href="https://gitee.com/devlive-community/shadcn-ui-vue-admin" target="_blank">
+              <a href="https://github.com/free-html5-templates/freecn-ui-vue-admin" target="_blank">
                 <DropdownMenuItem class="cursor-pointer">Gitee</DropdownMenuItem>
               </a>
             </DropdownMenuSubContent>

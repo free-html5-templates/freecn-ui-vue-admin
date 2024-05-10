@@ -1,6 +1,6 @@
 {
-  "name": "shadcn-ui-vue-admin",
-  "description": "Admin Dashboard UI crafted with Shadcn ui and Vite and Vue. Built with responsiveness and accessibility in mind.",
+  "name": "freecn-ui-vue-admin",
+  "description": "Admin Dashboard UI crafted with freecn ui and Vite and Vue. Built with responsiveness and accessibility in mind.",
   "private": true,
   "version": "2024.0.5",
   "scripts": {

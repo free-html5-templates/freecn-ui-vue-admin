@@ -3,8 +3,8 @@
     <CardHeader class="grid grid-cols-[minmax(0,1fr)_110px] items-start gap-4 space-y-0 p-0 border-b">
       <div class="space-y-1 p-3 pl-5">
         <CardTitle>
-          <a href="https://github.com/devlive-community/shadcn-ui-vue-admin" target="_blank">
-            devlive-community/shadcn-ui-vue-admin
+          <a href="https://github.com/devlive-community/freecn-ui-vue-admin" target="_blank">
+            devlive-community/freecn-ui-vue-admin
             <Badge variant="outline" class="mt-1">{{ $t('common.common.public') }}</Badge>
           </a>
         </CardTitle>
@@ -21,7 +21,7 @@
       </div>
     </CardHeader>
     <CardContent class="p-3 pl-5">
-      <CardDescription>Admin crafted with Shadcn ui and Vite and Vue. Built with responsiveness and accessibility in mind.</CardDescription>
+      <CardDescription>Admin crafted with freecn ui and Vite and Vue. Built with responsiveness and accessibility in mind.</CardDescription>
       <div class="flex items-center justify-between space-x-4 mt-2">
         <div class="flex items-center space-x-4">
           <div class="space-y-2 space-x-4">

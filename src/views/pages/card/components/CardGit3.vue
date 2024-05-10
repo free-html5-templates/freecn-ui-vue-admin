@@ -3,12 +3,12 @@
     <CardHeader class="grid grid-cols-[minmax(0,1fr)_110px] items-start gap-4 space-y-0">
       <div class="space-y-1">
         <CardTitle>
-          <a href="https://github.com/devlive-community/shadcn-ui-vue-admin" target="_blank">
-            devlive-community/shadcn-ui-vue-admin
+          <a href="https://github.com/devlive-community/freecn-ui-vue-admin" target="_blank">
+            devlive-community/freecn-ui-vue-admin
             <Badge variant="outline" class="mt-1">{{ $t('common.common.public') }}</Badge>
           </a>
         </CardTitle>
-        <CardDescription>Admin crafted with Shadcn ui and Vite and Vue. Built with responsiveness and accessibility in mind.</CardDescription>
+        <CardDescription>Admin crafted with freecn ui and Vite and Vue. Built with responsiveness and accessibility in mind.</CardDescription>
       </div>
       <div class="flex items-center justify-center w-full h-full">
         <BarChart class="cursor-pointer w-9"/>

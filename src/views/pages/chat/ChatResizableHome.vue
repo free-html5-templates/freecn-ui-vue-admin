@@ -55,7 +55,7 @@ export default defineComponent({
             },
             {
               id: 4,
-              content: 'Hello, i love open source. How are you? I love shadcn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
+              content: 'Hello, i love open source. How are you? I love freecn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
               user: {
                 name: 'datacap',
                 avatar: 'https://github.com/devlive-community/datacap/raw/dev/core/datacap-ui/public/static/images/logo.png'
@@ -64,7 +64,7 @@ export default defineComponent({
             },
             {
               id: 5,
-              content: 'Hello, i love open source. How are you? I love shadcn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
+              content: 'Hello, i love open source. How are you? I love freecn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
               user: {
                 name: 'devlive',
                 avatar: 'https://cdn.north.devlive.org/devlive.org/2024-04-17/2F28BD8A-5AB4-46BA-B614-287A0020FAE7.png'
@@ -73,7 +73,7 @@ export default defineComponent({
             },
             {
               id: 6,
-              content: 'Hello, i love open source. How are you? I love shadcn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
+              content: 'Hello, i love open source. How are you? I love freecn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
               user: {
                 name: 'datacap',
                 avatar: 'https://github.com/devlive-community/datacap/raw/dev/core/datacap-ui/public/static/images/logo.png'
@@ -82,7 +82,7 @@ export default defineComponent({
             },
             {
               id: 7,
-              content: 'Hello, i love open source. How are you? I love shadcn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
+              content: 'Hello, i love open source. How are you? I love freecn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
               user: {
                 name: 'devlive',
                 avatar: 'https://cdn.north.devlive.org/devlive.org/2024-04-17/2F28BD8A-5AB4-46BA-B614-287A0020FAE7.png'
@@ -91,7 +91,7 @@ export default defineComponent({
             },
             {
               id: 8,
-              content: 'Hello, i love open source. How are you? I love shadcn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
+              content: 'Hello, i love open source. How are you? I love freecn ui vue admin template and datacap and open ai java sdk. I am fine, and you? What about you?',
               user: {
                 name: 'datacap',
                 avatar: 'https://github.com/devlive-community/datacap/raw/dev/core/datacap-ui/public/static/images/logo.png'
